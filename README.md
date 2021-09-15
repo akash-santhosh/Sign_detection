@@ -1,1 +1,1 @@
-Sign Detection project done for the Manorama Yuva Mastermind by AJCE
+Sign Detection project done for the Manorama Yuva Mastermind
